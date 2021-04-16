@@ -1,0 +1,18 @@
+SQL SERVER
+
+Projekat radjen u SQL Server Management Studio (SSMS)
+
+Fajl "Skripta za kreiranje kompletne baze sa svim objektima.sql" sadrzi kompletan projekat (sve tabele, procedure, funkcije, trigere...).
+Ako se koristi ova skripta, onda treba zanemariti skripte iz foldera "I deo" i skripte iz foldera "Ubacivanje redova u bazu" koji se nalazi u folderu "II deo".
+
+U folderima "I deo", "II deo", "III deo" se nalaze skripte po redosledu izrade projekta koji je postavljen na materijalima. 
+ 
+U folderu "I deo" se nalaze skripte za kreiranje baze i pravljenje tabela i kljuceva.
+U folderu "II deo" folder u kome se nalazi skripta za ubacivanje redova u tabele.
+
+U folderu "II deo" se nalaze i skripte koje sadrze JOIN upite, agregatne f-je, group by, having, offset-fetch, podupite i primere za update i delete naredbe.
+U folderu "III deo" nalaze se funkcije, pogled, sve procedure i svi trigeri. Takodje se nalaze i folderi koji sadrze skripte za simulaciju deadlock-a, 
+repeatable read-a i folderi za XML i JSON.
+
+
+
